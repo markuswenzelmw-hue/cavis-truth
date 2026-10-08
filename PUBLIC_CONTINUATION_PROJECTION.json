@@ -1,0 +1,8 @@
+{
+ "schema_id": "CAVIS_PUBLIC_CONTINUATION_PROJECTION_V1",
+ "continuation_class": "WAITING_ON_OWNER",
+ "currentness": "CURRENT",
+ "private_source_sha256": "9eb3faa5ba1c4b06682b5d0eef187b2f7af06d6624b9687971185d63ea2000f4",
+ "private_receipt_digest": "e93099c09f15530ed482f1debe9c49893d30af586d17f20859308114a3fdac93",
+ "digest": "574c7d666809efd7cc184991e5f42ce622c9850c485f044d57f0dcedab25a64c"
+}

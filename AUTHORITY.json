@@ -1,0 +1,21 @@
+{
+ "schema_id": "CAVIS_LIVE_TRUTH_PUBLICATION_AUTHORITY_V1",
+ "authority_id": "cavis-live-truth-public-001",
+ "authority_epoch": 1,
+ "owner_authority_root": "4a5b64d3e3983e81d09c1509b4d094bdd344f1312390a6100bc500170cf7c9d8",
+ "allowed_remote": "https://github.com/markuswenzelmw-hue/cavis-truth.git",
+ "allowed_ref": "refs/heads/cavis/live-truth-public",
+ "allowed_operation": "LIVE_TRUTH_SNAPSHOT_PUBLICATION",
+ "allowed_candidate_class": "LIVE_TRUTH_PUBLIC_PROJECTION_V1",
+ "subject_repository": "commitment:6362e8e9e3b0b683d880ee3fd4ed5522b7d46fbe8773102a7e14b8b20ee054e5",
+ "subject_branch": "cavis/canonical-consolidation-v1",
+ "world": {
+  "commitment": "commitment:df6bd7ebc8f44cf4298ebf002ae418c3893bfc6b4a20b0ac026f0464baa5d855"
+ },
+ "max_snapshot_age_ms": 4500000,
+ "ref_creation_allowed": true,
+ "expiry": {
+  "class": "EXPIRES_AT",
+  "expires_at_ms": 1794009600000
+ }
+}
