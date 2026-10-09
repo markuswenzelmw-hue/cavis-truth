@@ -1,11 +1,11 @@
 {
  "schema_id": "CAVIS_PUBLIC_FRONTIER_PROJECTION_V1",
  "head": "e4d4b1d89d75bb97b000d589166a4e07a2ebe707",
- "units_total": 126,
+ "units_total": 129,
  "unit_state_counts": {
-  "COMPLETED": 120,
-  "OPEN": 6
+  "COMPLETED": 122,
+  "OPEN": 7
  },
- "private_frontier_digest": "25f5baf8c103791b9e8f9392bb694acfa9ef8b650c74289ae8301bf789157628",
- "digest": "3317433022d19a2a5751730e8fae926aeb5dd15ef5d3e80e00f916b2c761c781"
+ "private_frontier_digest": "3971f9c41d8dfc204814c7ea0ba6a5f3107c674c939ad4160aadf0734811d01b",
+ "digest": "eb73112144a0a824f67482f1f34e4f233b1c261485ad74d9716a755f7c53dd7d"
 }
