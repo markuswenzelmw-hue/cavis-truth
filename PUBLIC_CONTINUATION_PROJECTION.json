@@ -1,8 +1,8 @@
 {
  "schema_id": "CAVIS_PUBLIC_CONTINUATION_PROJECTION_V1",
- "continuation_class": "WAITING_ON_OWNER",
+ "continuation_class": "MECHANICAL_RUNNING",
  "currentness": "CURRENT",
- "private_source_sha256": "32c6369e4e4da2f130abfb58282bb5570274a06ddfaf6a8b71630c3334530016",
- "private_receipt_digest": "b7bf63ccbe0b277061af40b9ff4cb3459ef484edcb225245100aee7f3fd92b9b",
- "digest": "5083fea5b65928137356eb37f19ef3a4caf0304a1106fff7bbca8f30b926603e"
+ "private_source_sha256": "6e99be3e8cfc3c6143f96760fda62ee4275ccc660a16ab1abeea20749c241941",
+ "private_receipt_digest": "ca5b34cbc457f8693e27f392e2bb16d741b2ccfb1ec542d0943d95d63b6328a2",
+ "digest": "c3659ba7d33aca87a38eb511287a651a947ce5833dfbb4786a85d98d46d37feb"
 }
