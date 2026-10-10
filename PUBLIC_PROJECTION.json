@@ -2,9 +2,9 @@
  "schema_id": "CAVIS_LIVE_TRUTH_PUBLIC_PROJECTION_V1",
  "canonical_head": "a635887bbc8f38cf74c08a0bd886651924b7932f",
  "canonical_branch": "cavis/canonical-consolidation-v1",
- "observed_at": "2026-10-10T02:48:50.597Z",
+ "observed_at": "2026-10-10T03:48:51.605Z",
  "currentness": {
-  "observed_at": "2026-10-10T02:48:50.597Z",
+  "observed_at": "2026-10-10T03:48:51.605Z",
   "max_age_ms": 4500000,
   "head_measured": true
  },
@@ -12,8 +12,8 @@
  "continuation_class": "WAITING_ON_OWNER",
  "open_owner_boundaries": [],
  "authority_granted": "NONE",
- "private_snapshot_digest": "84d71d995d629165e7fde9a45f2c7db7afdea3fe4ebab22e630756ca26f75caa",
- "frontier_projection_digest": "57dad10356df48782c94b88913c81d1fc5bd749da930770114c62a78d00972af",
- "continuation_projection_digest": "791138e3aab782122db56a16f661a72b28f767b04cfe16d3a77c5853a7622d36",
- "digest": "a42defc903c4e467d8f89874c95988655d3c3ab432103b7f286f7acdea086517"
+ "private_snapshot_digest": "a69abdd1ad7bb266745065b84ec378b6db50a6c0ba5d26c5c19b4fb634006a88",
+ "frontier_projection_digest": "0ada21e8b5e7eca671c067f697d8dd8896797fe6c3b0cdfde6e0887f91846c8d",
+ "continuation_projection_digest": "8c6ce9596592e3dd841255422e0e64da86cc8a523c4e423bbe4b12c99cf05463",
+ "digest": "8cf6a1d108e274c5eccd14bfbfa44b025795ead23f656e71892c68724b72161c"
 }
