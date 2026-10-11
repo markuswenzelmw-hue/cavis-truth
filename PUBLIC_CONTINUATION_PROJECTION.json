@@ -1,8 +1,8 @@
 {
  "schema_id": "CAVIS_PUBLIC_CONTINUATION_PROJECTION_V1",
- "continuation_class": "WAITING_ON_SEMANTICS",
+ "continuation_class": "MECHANICAL_RUNNING",
  "currentness": "CURRENT",
- "private_source_sha256": "6dc9592e4cf1d873b6ddfb61c1d92bb0e711dfbff62586d0c770e71cb396e315",
- "private_receipt_digest": "d5e3f317b1d8450867be8606b57dcaa6bd26c6795b8f10cfb8ba93e799408c00",
- "digest": "8c75bfb59170b1fb96ba520fb8bc44d64770524cba47c4ccee82d10078fc1065"
+ "private_source_sha256": "5eb55e9bab71f759c69bcb578aa1e0b71ff246a6883b0201c856c778ecd929a0",
+ "private_receipt_digest": "13cebe0bc9efc017625770c49a61bee89dd3693604e7df6a73f6a696bf73a077",
+ "digest": "a646940e402fa3efcacfbc43090b4e4852048b347257c9f2ba2e495333f9f06f"
 }
