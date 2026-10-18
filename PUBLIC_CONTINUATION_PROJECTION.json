@@ -2,7 +2,7 @@
  "schema_id": "CAVIS_PUBLIC_CONTINUATION_PROJECTION_V1",
  "continuation_class": "MECHANICAL_READY",
  "currentness": "CURRENT",
- "private_source_sha256": "be31815d60e30d64a5402b61c59ca138aa518976a37d1f9c189a3db0f93c69d5",
- "private_receipt_digest": "b285bd98ca377f54c0c1e15535db4939e4e33161eff49c5d494ebf4ae4ec7135",
- "digest": "7874cc4fc2f04afece43dedcf22cd223304ff35d92f920e07d35b6656dbe4587"
+ "private_source_sha256": "492fc3c8de9cc4031f630a7276d3f96ac093026c1e895227c4eab4b43f6149a7",
+ "private_receipt_digest": "c91a1a9a5b5a55683bd2c325c5b67145035e59174a2ec4e00ea40ae1927bbb11",
+ "digest": "989f470f283b86bb581d40b796f8d4181971e20c5bfb9d6f17bb19595938957c"
 }
